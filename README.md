@@ -1,2 +1,3 @@
 # Framework-SMM---Sustainability-Maturity-Model
-Fonte das classes mais importantes do MVP
+Fonte das classes mais importantes do MVP - Dissertação de MEstrado PPGCOMP - UNIFACS 10/2019
+O MVP desenvolvido possui uma parte destinada a explicar todo o propósito da ferramenta, tendo sua apresentação, o conceito de cidade inteligente defendido, a explicação do que é o SMM, seu propósito, além da justificativa e da metodologia utilizada para compor o índice. Nesta parte destaca-se que há uma explicação minuciosa de todas as dimensões e seus indicadores, de maneira a demonstrar total transparência e auxiliar na compreensão de como participar e fornecer as informações necessárias.
